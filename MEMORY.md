@@ -116,3 +116,43 @@
 - İmamoğlu tutuklanması detaylı araştırması
 - Türk siyasi partiler analizi
 - @ajansmuhbir1923 tweetleri analizi
+
+---
+
+## Yüklü Skill'ler (ClawHub)
+
+Toplam: 12 skill yüklü
+
+| Skill | Versiyon | Kuruluş |
+|-------|----------|---------|
+| self-improving | 1.1.3 | 2026-03-02 |
+| openai-whisper | 1.0.0 | 2026-03-02 |
+| humanizer | 1.0.0 | 2026-03-02 |
+| youtube-watcher | 1.0.0 | 2026-03-02 |
+| chirp | 1.0.1 | 2026-03-02 |
+| github | 1.0.0 | 2026-03-03 |
+| automation-workflows | 0.1.0 | 2026-03-03 |
+| agent | 1.0.0 | 2026-03-03 |
+| x-post-automation | 1.0.0 | 2026-03-03 |
+| openclaw-github-assistant | 2.0.1 | 2026-03-03 |
+| multi-agent-collaboration | 1.0.0 | 2026-03-03 |
+| scrapling | (manuel) | 2026-03-02 |
+
+**Not:** self-improving-agent (https://clawhub.ai/pskoett/self-improving-agent) ZATEN KURULU!
+
+---
+
+## GitHub Repolar
+
+- **Ana repo:** https://github.com/barancanercan/paspartu-sBrain
+  - Workspace dosyaları (personas, memory, skills)
+  - Otomatik push: Her 6 saat
+
+- **news-intelligence-agent:** Baran'ın haber toplama sistemi
+  - Konum: /root/.openclaw/workspace/news-intelligence-agent/
+  - Ayrı repo olarak tutuluyor (submodule değil)
+
+---
+
+## ClawHub Konfigürasyonu
+- Konum: /root/.openclaw/workspace/.clawhub/lock.json
