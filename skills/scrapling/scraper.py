@@ -18,23 +18,39 @@ COOKIES_FILE = "/root/.openclaw/workspace/cookies.json"
 REPORTS_DIR = Path("/root/.openclaw/workspace/reports")
 REPORTS_DIR.mkdir(exist_ok=True)
 
-# Hedef siteler (örnek)
+# Hedef siteler (Türk haber siteleri)
 TARGETS = [
     {
-        "name": "Örnek Site 1",
-        "url": "https://example1.com",
+        "name": "Hürriyet",
+        "url": "https://www.hurriyet.com.tr",
         "selectors": {
             "title": "h1::text",
-            "items": ".item-class",
-            "prices": ".price::text"
+            "headlines": ".haber-listesi .haber-item .haber-title::text",
+            "latest": ".son-dakika .haber-title::text"
         }
     },
     {
-        "name": "Örnek Site 2", 
-        "url": "https://example2.com",
+        "name": "Sözcü",
+        "url": "https://www.sozcu.com.tr",
         "selectors": {
-            "headlines": ".headline::text",
-            "dates": ".date::text"
+            "title": "h1::text",
+            "headlines": ".haber-listesi .haber-item .haber-title::text"
+        }
+    },
+    {
+        "name": "Milliyet",
+        "url": "https://www.milliyet.com.tr",
+        "selectors": {
+            "title": "h1::text",
+            "headlines": ".haber-listesi .haber-title::text"
+        }
+    },
+    {
+        "name": "T24",
+        "url": "https://t24.com.tr",
+        "selectors": {
+            "title": "h1::text",
+            "headlines": ".haber-item .haber-title::text"
         }
     }
 ]
