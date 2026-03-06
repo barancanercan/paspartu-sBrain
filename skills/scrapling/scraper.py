@@ -52,6 +52,22 @@ TARGETS = [
             "title": "h1::text",
             "headlines": ".haber-item .haber-title::text"
         }
+    },
+    {
+        "name": "BirGün",
+        "url": "https://www.birgun.net",
+        "selectors": {
+            "title": "h1::text",
+            "headlines": ".haber-item .haber-title::text"
+        }
+    },
+    {
+        "name": "Cumhuriyet",
+        "url": "https://www.cumhuriyet.com.tr",
+        "selectors": {
+            "title": "h1::text",
+            "headlines": ".haber-listesi .haber-title::text"
+        }
     }
 ]
 
