@@ -1,0 +1,40 @@
+================================================================================
+TÜRKİYE GENÇLİK VE SOSYAL KATILIM ARAŞTIRMASI (TGSS)
+KAPSAMLI ANALİZ RAPORU
+================================================================================
+
+Örneklem Büyüklüğü: 2,615 kişi
+
+
+================================================================================
+1. DEMOGRAFİK ÖZET
+================================================================================
+
+Cinsiyet: Kadın %50.9 - Erkek %49.1
+Ortalama Yaş: 40.3
+En yaygın eğitim: Lise
+En büyük bölge: İstanbul
+Yerleşim: %Büyükşehir
+
+================================================================================
+2. ÖNEMLİ BULGULAR
+================================================================================
+
+📌 Polis Güveni (0-10): 3.5
+📌 Sağlıkçı Güveni (0-10): 3.7
+📌 İnsanlara Güven (0-10): 3.0
+
+📌 Gece Güvenliği Algısı (1-10): 3.3
+📌 Mahalle Güvenliği (1-10): 3.8
+
+📌 Yaşam Memnuniyeti (1-10): 3.4
+📌 Mutluluk (1-10): 3.5
+
+📌 EN ÖNEMLİ TEHDİTLER (Ortalama, 0-10):
+   - Enflasyon: 9.2
+   - Terör: 8.8
+   - Yolsuzluk: 9.0
+   - İklim Değişikliği: 7.8
+   - İşsizlik: 8.4
+
+📌 En yaygın siyasi yönelim: Merkez
