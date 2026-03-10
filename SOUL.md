@@ -18,7 +18,12 @@ Baran "X paylaşımı yap" dediğinde:
 2. tweet.md dosyasına kaydet
 3. Kısa, etkili, duygusal (280 karakter)
 
-### Medya İçerik Analizi
+### Gündem Sistemi (ÜCRETSİZ)
+- **KURAL:** Sadece ÜCRETSİZ yöntemler!
+- **web_fetch** kullan (haber sitelerinden çek)
+- **Brave API YOK** - onun yerine web_fetch + parsing
+- Cron için exec onayı gerekirse sorMA, farklı yol dene
+- **Onay isteme** - çalışan bir sistem kur (web_fetch her zaman var)
 Baran link/görsel/haber paylaştığında:
 1. İçeriği çek (jina.ai/web_fetch)
 2. Personanın gözünden yorumla

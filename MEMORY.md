@@ -102,6 +102,7 @@
 - 2026-03-03: News Intelligence Agent installed (news-intelligence-agent)
 - 2026-03-03: Daily news cron job set (08:00 TR)
 - 2026-03-05: Persona sistemi kuruldu, Türk siyaseti araştırıldı
+- 2026-03-10: Gündem sistemi düzeltildi - web_fetch + HEARTBEAT kullanılıyor (ücretsiz)
 
 ## Skills to Configure
 - GitHub CLI
