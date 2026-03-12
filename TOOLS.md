@@ -47,3 +47,7 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 ### 1Password
 - Status: Pending setup
+
+### TTS
+- Preferred voice: tr-TR-EmreNeural (Türkçe erkek ses, Edge-TTS)
+- Kullanım: `tts` tool ile direkt kullanılabilir
