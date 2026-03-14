@@ -1,0 +1,4 @@
+2026/03/06-04:30:08.602 17ea Creating DB /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/shared_proto_db/metadata since it was missing.
+2026/03/06-04:30:08.617 17ea Reusing MANIFEST /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/shared_proto_db/metadata/MANIFEST-000001
+2026/03/06-04:30:08.617 17ea Recovering log #3
+2026/03/06-04:30:08.620 17ea Reusing old log /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/shared_proto_db/metadata/000003.log 

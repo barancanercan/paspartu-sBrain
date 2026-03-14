@@ -1,0 +1,4 @@
+2026/03/06-04:30:08.519 17f5 Creating DB /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Extension Scripts since it was missing.
+2026/03/06-04:30:08.524 17f5 Reusing MANIFEST /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Extension Scripts/MANIFEST-000001
+2026/03/06-04:30:08.524 17f5 Recovering log #3
+2026/03/06-04:30:08.529 17f5 Reusing old log /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Extension Scripts/000003.log 

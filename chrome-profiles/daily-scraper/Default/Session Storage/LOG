@@ -1,0 +1,4 @@
+2026/03/06-04:30:08.596 180d Creating DB /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Session Storage since it was missing.
+2026/03/06-04:30:08.627 180d Reusing MANIFEST /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Session Storage/MANIFEST-000001
+2026/03/06-04:30:08.628 180d Recovering log #3
+2026/03/06-04:30:08.629 180d Reusing old log /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Session Storage/000003.log 

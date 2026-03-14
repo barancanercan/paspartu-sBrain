@@ -1,0 +1,4 @@
+2026/03/06-04:30:12.652 17eb Creating DB /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/GCM Store since it was missing.
+2026/03/06-04:30:12.655 17eb Reusing MANIFEST /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/GCM Store/MANIFEST-000001
+2026/03/06-04:30:12.655 17eb Recovering log #3
+2026/03/06-04:30:12.655 17eb Reusing old log /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/GCM Store/000003.log 

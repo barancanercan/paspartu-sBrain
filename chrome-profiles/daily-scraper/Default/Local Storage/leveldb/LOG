@@ -1,0 +1,4 @@
+2026/03/06-04:30:08.496 180d Creating DB /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Local Storage/leveldb since it was missing.
+2026/03/06-04:30:08.526 180d Reusing MANIFEST /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Local Storage/leveldb/MANIFEST-000001
+2026/03/06-04:30:08.526 180d Recovering log #3
+2026/03/06-04:30:08.531 180d Reusing old log /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Local Storage/leveldb/000003.log 

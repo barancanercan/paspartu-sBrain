@@ -1,0 +1,4 @@
+2026/03/06-04:30:08.482 17f4 Creating DB /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Site Characteristics Database since it was missing.
+2026/03/06-04:30:08.495 17f4 Reusing MANIFEST /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Site Characteristics Database/MANIFEST-000001
+2026/03/06-04:30:08.496 17f4 Recovering log #3
+2026/03/06-04:30:08.498 17f4 Reusing old log /root/.openclaw/workspace/chrome-profiles/daily-scraper/Default/Site Characteristics Database/000003.log 
